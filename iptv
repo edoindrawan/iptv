@@ -2,6 +2,11 @@
 	
 ============================================= LOKAL =================================================
 =====================================================================================================	
+
+#LIVE
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://assets-skorid.s3.ap-southeast-1.amazonaws.com/IMG_4846_f04a6f2cff.jpeg" group-title="LIVE",INDONESIA VS PANAMA | 19:00 WIB
+https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1699879846-0-0-59628475e6c213228d5067225f134b22.m3u8
+
 #LOKAL
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-VzCVjd2vawE/V_srtHNdUlI/AAAAAAAAGG0/lK90NZHbL5kN3JbZ04zGK7t_c2D7LhNPQCLcB/s1600/ANTV-Indonesia-Logo.png" group-title="LOKAL",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,8 +17,11 @@ https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" tvg-id="bd6bdb79d48bc9605c336b3319c5a384" tvg-chno="2" group-title="LOKAL",INDOSIAR DIGITAL
-http://103.166.27.2:8112/play/a016
+http://xtv.ooo:8080/493121299/992121394/350972
+#http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/162138
+#http://103.166.27.2:8112/play/a016
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" tvg-id="f77d9d9f698589bd4352bf7bebed1828" tvg-chno="79" group-title="LOKAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -21,7 +29,9 @@ http://103.166.27.2:8112/play/a016
 https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" tvg-id="f77d9d9f698589bd4352bf7bebed1828" tvg-chno="79" group-title="LOKAL",SCTV DIGITAL
-http://103.166.27.2:8112/play/a015
+http://xtv.ooo:8080/493121299/992121394/351030
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/162141
+#http://103.166.27.2:8112/play/a015
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/RCTI_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160314104216" group-title="LOKAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1083,9 +1093,3 @@ https://mangga-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAl
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://mangga-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-
-
-
-
-
