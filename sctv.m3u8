@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://10.10.200.7/LOGO/SCTV.png" tvg-id="4e4ac80b50b363179803fae161156a6d" tvg-chno="3" group-title="LOKAL",SCTV DIGITAL
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/622

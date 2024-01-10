@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://10.10.200.7/LOGO/Indosiar.png" tvg-id="bd6bdb79d48bc9605c336b3319c5a384" tvg-chno="2" group-title="LOKAL",INDOSIAR DIGITAL
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/621
